@@ -1,14 +1,33 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub profile <img src="https://media.giphy.com/media/HYn5ltRbggRF2uq8t4/100.gif" width="50">
+
 ✨ My name is Marsha, and I'm a Pisa University foreign student. I'm here to share with you all that I can. Let's learn together! 📚	
 
-<img src="https://github.com/MarshaGomez/MarshaGomez/blob/main/giphy_css.gif" data-canonical-src="https://github.com/MarshaGomez/MarshaGomez/blob/main/giphy_css.gif" width="200" height="200" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Marsha's github stats](https://github-readme-stats.vercel.app/api?username=MarshaGomez&show_icons=true&count_private=true)
-
-
-
+ <table>
+  <tr>
+    <th>GitHub stats</th>
+    <th>Most used languages</th>
+  </tr>
+  <tr>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarshaGomez&show_icons=true&count_private=true&theme=tokyonight" />
+    </a>
+   </td>
+   <td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshagomez&theme=tokyonight" />
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td align="center">
+    <img align="center" src="https://img.shields.io/github/followers/marshagomez?label=Follow&style=social" />
+   </td>
+   <td align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=marshagomez" />
+   </td>
+  </tr>
+</table> 
 
 
 
