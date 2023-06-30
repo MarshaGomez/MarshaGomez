@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile <img src="https://media.giphy.com/media/HYn5ltRbggRF2uq8t4/100.gif" width="50">
 
-✨ My name is Marsha, and I'm a Pisa University foreign student. I'm here to share with you all that I can. Let's learn together! 📚	
+✨ 📚	
 
  <table>
   <tr>
